@@ -1,18 +1,14 @@
 body {
-	background-color: purple;
+	background-color: black;
 	color: white;
 }
 
 H1 {
-	background-color: blue;
-	color: white;
+	background-color: #2B2D2F;
+	color: #C6C6C6 ;
 	text-align: center;
 }
 
 b {
 	color: yellow;
-}
-
-p {
-	display: none;
 }
