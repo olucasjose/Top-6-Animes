@@ -1,7 +1,13 @@
-H1 {
-	background-color: blue;
+body {
+	background-color: purple;
+	color: white;
 }
 
-body {
-	background-color: whitesmoke;
+H1 {
+	background-color: blue;
+	color: white;
+}
+
+b {
+	color: yellow;
 }
